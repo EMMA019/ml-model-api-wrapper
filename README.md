@@ -82,14 +82,22 @@ JSON
   "status": "healthy",
   "model_loaded": true
 }
+
 📂 Project Structure
 .
+
 ├── main.py           # FastAPI application & startup logic
+
 ├── model_wrapper.py  # Model loading & prediction logic
+
 ├── requirements.txt  # Dependencies
+
 ├── model.pkl         # Serialized model (auto-generated if missing)
+
 └── README.md         # Project documentation
+
 
 🤝 Contact
 Created by [Tarocha]. Open to feedback and collaboration on AI orchestration systems.
+
 📧 tarocha1019@icloud.com
