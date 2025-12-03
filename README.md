@@ -39,10 +39,12 @@ Bash
 
 git clone https://github.com/EMMA019/ml-model-api-wrapper.git
 cd ml-model-api-wrapper
+
 2. Install dependencies
 Bash
 
 pip install -r requirements.txt
+
 3. Run the server
 Bash
 
