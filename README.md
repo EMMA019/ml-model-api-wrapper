@@ -89,5 +89,7 @@ JSON
 ├── requirements.txt  # Dependencies
 ├── model.pkl         # Serialized model (auto-generated if missing)
 └── README.md         # Project documentation
+
 🤝 Contact
-Created by [Tarocha]. Open to feedback and collaboration on AI orchestration systems. 📧 tarocha1019@icloud.com
+Created by [Tarocha]. Open to feedback and collaboration on AI orchestration systems.
+📧 tarocha1019@icloud.com
